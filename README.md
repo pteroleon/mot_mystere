@@ -24,7 +24,7 @@ MBrick utilise 3 modules:
 ## Versions
 * **v1.0.0**
 
-## Auteurs
+## Auteur
 * **Achille VAN den BRANDE**
 
 ## Licence
