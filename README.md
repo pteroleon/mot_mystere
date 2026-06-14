@@ -15,7 +15,7 @@ Un jeu de devinette de mots basé sur une base de données de 22 000 mots franç
     `main.py`
 
 ## Modules
-MBrick utilise 3 modules:
+Mot Mystère utilise 3 modules:
 * **CustomTkinter**: pour l'interface
 * **Pandas**: pour la gestion de la base de données de mots et du classement
 * **Matplotlib**: pour le graphique
